@@ -1,0 +1,8 @@
+{
+  "name": "ChickMate AI",
+  "description": "Smart poultry management app guiding farmers from day-old chicks to market. Features AI disease diagnosis, audio coop monitoring, and optical weight estimation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
